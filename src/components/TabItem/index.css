@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.tabItem {
+  list-style-type: none;
+  margin: 10px;
+}
+.button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  color: #7b8794;
+}
+.tab-style {
+  color: #2563eb;
+  text-decoration: underline;
+  text-decoration-color: #2563eb;
+  text-decoration-thickness: 3px;
+}
